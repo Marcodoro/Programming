@@ -3,9 +3,11 @@ import './nav.css';
 
 function nav() {
   return (
-    <div>
-      
-    </div>
+    <>
+      <div className="menu">
+        
+      </div>
+    </>
   )
 }
 
